@@ -26,7 +26,7 @@ En resumen, me presento ante ustedes como un emprendedor apasionado en el mundo 
 - 💬 Ask me about sketches or projects.
 - 📫 You can find me on LinkedIn or WhatsApp in my portfolio.
 
-  🎆 My name is Massimo Bosco, and I am excited to share with you my passion for programming and web development, especially when it comes to working with the powerful programming language Python. I am here to introduce myself as a determined and passionate entrepreneur, ready to make my mark in the world of web development and take Python's possibilities to new levels.
+🎆 My name is Massimo Bosco, and I am excited to share with you my passion for programming and web development, especially when it comes to working with the powerful programming language Python. I am here to introduce myself as a determined and passionate entrepreneur, ready to make my mark in the world of web development and take Python's possibilities to new levels.
 
 From a young age, I have been drawn to technology and creativity. As my fascination with computers grew, I realized that programming is not just a tool for creating applications and websites, but a means to bring innovative and transformative ideas to life.
 
