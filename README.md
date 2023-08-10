@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 💬 preguntame de bocetos o proyectos
 - 📫 puedes encontrarme por linkedin o whatsapp en mi portafolio
 
-#Mi nombre es Massimo Bosco#, y me emociona compartir con ustedes mi pasión por la programación y el desarrollo web, especialmente cuando se trata de trabajar con el poderoso lenguaje de programación Python. Estoy aquí para presentarme como un emprendedor decidido y apasionado, listo para hacer mi marca en el mundo del desarrollo web y llevar las posibilidades de Python a nuevos niveles.
+🎆Mi nombre es Massimo Bosco, y me emociona compartir con ustedes mi pasión por la programación y el desarrollo web, especialmente cuando se trata de trabajar con el poderoso lenguaje de programación Python. Estoy aquí para presentarme como un emprendedor decidido y apasionado, listo para hacer mi marca en el mundo del desarrollo web y llevar las posibilidades de Python a nuevos niveles.
 
 Desde una edad temprana, me he sentido atraído por la tecnología y la creatividad. A medida que mi fascinación por la informática creció, me di cuenta de que la programación no solo es una herramienta para crear aplicaciones y sitios web, sino que es un medio para dar vida a ideas innovadoras y transformadoras. Esta convicción me llevó a sumergirme de lleno en el mundo del desarrollo web y a elegir Python como mi lenguaje preferido.
 
@@ -18,4 +18,4 @@ Mi objetivo como emprendedor es aprovechar al máximo las ventajas que Python y 
 
 En resumen, me presento ante ustedes como un emprendedor apasionado en el mundo del desarrollo web, con un enfoque claro en Python. Estoy emocionado por lo que el futuro tiene reservado y estoy comprometido a crear soluciones tecnológicas impactantes que dejen una huella duradera en el mundo digital. ¡Estoy listo para colaborar, aprender y crecer junto a todos ustedes en esta emocionante travesía!
 
-¡Gracias por su tiempo y atención!
+🎆🎆¡Gracias por su tiempo y atención!🎆🎆
