@@ -21,10 +21,10 @@ En resumen, me presento ante ustedes como un emprendedor apasionado en el mundo 
 
 ### ENGLISH 
 
--🌱 I am studying at UTN.
--🤔 I am seeking assistance to understand Ruby.
--💬 Ask me about sketches or projects.
--📫 You can find me on LinkedIn or WhatsApp in my portfolio.
+- 🌱 I am studying at UTN.
+- 🤔 I am seeking assistance to understand Ruby.
+- 💬 Ask me about sketches or projects.
+- 📫 You can find me on LinkedIn or WhatsApp in my portfolio.
 
 -🎆 My name is Massimo Bosco, and I am excited to share with you my passion for programming and web development, especially when it comes to working with the powerful programming language Python. I am here to introduce myself as a determined and passionate entrepreneur, ready to make my mark in the world of web development and take Python's possibilities to new heights.
 
