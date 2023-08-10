@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://github.com/magikboy/magikboy/blob/fbf1f26ec2e3d7f1b661b739483f5d771ca2e361/imagen_2023-08-10_115257666.png)
+
 - 🌱 Estoy estudiando en la utn
 - 🤔 estoy buscando ayuda para entender ruby
 - 💬 preguntame de bocetos o proyectos
