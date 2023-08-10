@@ -19,6 +19,8 @@ En resumen, me presento ante ustedes como un emprendedor apasionado en el mundo 
 
 🎆🎆¡Gracias por su tiempo y atención!🎆🎆
 
+- [Portafolio](https://magikboy.github.io)
+
 ### ENGLISH 
 
 - 🌱 I am studying at UTN.
@@ -39,3 +41,5 @@ My goal as an entrepreneur is to leverage the advantages that Python and web dev
 In summary, I present myself to you as a passionate entrepreneur in the world of web development, with a clear focus on Python. I am excited for what the future holds and am committed to creating impactful technological solutions that leave a lasting mark in the digital world. I am ready to collaborate, learn, and grow alongside all of you on this exciting journey!
 
 🎆🎆 Thank you for your time and attention! 🎆🎆
+
+- [Portfolio](https://magikboy.github.io)
