@@ -18,3 +18,24 @@ Mi objetivo como emprendedor es aprovechar al máximo las ventajas que Python y 
 En resumen, me presento ante ustedes como un emprendedor apasionado en el mundo del desarrollo web, con un enfoque claro en Python. Estoy emocionado por lo que el futuro tiene reservado y estoy comprometido a crear soluciones tecnológicas impactantes que dejen una huella duradera en el mundo digital. ¡Estoy listo para colaborar, aprender y crecer junto a todos ustedes en esta emocionante travesía!
 
 🎆🎆¡Gracias por su tiempo y atención!🎆🎆
+
+### ENGLISH 
+
+-🌱 I am studying at UTN.
+-🤔 I am seeking assistance to understand Ruby.
+-💬 Ask me about sketches or projects.
+-📫 You can find me on LinkedIn or WhatsApp in my portfolio.
+
+-🎆 My name is Massimo Bosco, and I am excited to share with you my passion for programming and web development, especially when it comes to working with the powerful programming language Python. I am here to introduce myself as a determined and passionate entrepreneur, ready to make my mark in the world of web development and take Python's possibilities to new heights.
+
+From a young age, I have been drawn to technology and creativity. As my fascination with computers grew, I realized that programming is not just a tool for creating applications and websites, but a means to bring innovative and transformative ideas to life. This conviction led me to dive headfirst into the world of web development and choose Python as my preferred language.
+
+My journey in web development began with small personal projects, where I learned to build and design intuitive and appealing websites. As I gained skills and experience, my ambition grew. I started working on more challenging projects, from e-commerce platforms to interactive applications. Every obstacle became an opportunity to learn and grow, and I discovered that programming is both an art and a science.
+
+My focus on Python is a result of its versatility and active community. Python is a language that allows me to express my creativity while building robust technical solutions. From backend development to creating powerful web applications, Python is my preferred tool to turn concepts into reality.
+
+My goal as an entrepreneur is to leverage the advantages that Python and web development have to offer. I am committed to creating innovative and effective solutions that solve real problems and enhance user experiences. As an entrepreneur, I understand the importance of adaptability and the constant pursuit of excellence. I am willing to face challenges and learn from my mistakes to continue evolving and delivering exceptional results.
+
+In summary, I present myself to you as a passionate entrepreneur in the world of web development, with a clear focus on Python. I am excited for what the future holds and am committed to creating impactful technological solutions that leave a lasting mark in the digital world. I am ready to collaborate, learn, and grow alongside all of you on this exciting journey!
+
+🎆🎆 Thank you for your time and attention! 🎆🎆
