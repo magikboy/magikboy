@@ -1,5 +1,4 @@
 ### Hi there 👋
-Here are some ideas to get you started:
 
 - 🌱 Estoy estudiando en la utn
 - 🤔 estoy buscando ayuda para entender ruby
