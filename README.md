@@ -1,5 +1,5 @@
 ## Bienvenidos
-![](https://github.com/magikboy/magikboy/blob/fbf1f26ec2e3d7f1b661b739483f5d771ca2e361/imagen_2023-08-10_115257666.png)
+![](https://github.com/magikboy/magikboy/blob/1de79c2a984173a8ebc304cddf1ec94d97d85e6a/gif_git.gif)
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Programador+de+C%23%3B+.NET%3B+Full+Stack%3B+2+Años+de+Experiencia&font=Fira+Code&center=true&width=700&height=45&color=4b0082&vCenter=true&pause=1000&size=25" /></a>
 </p>
