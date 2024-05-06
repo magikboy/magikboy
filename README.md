@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+## Profile Views
+
+
+<table>
+  <tr>
+    <!-- <th>Vistas del perfil</th> -->
+    <th>Total</th>
+  </tr>
+  <tr>
+    <!-- Vistas del perfil -->
+    <td>
+       <a href="https://github.com/magikboy"> <img src="https://komarev.com/ghpvc/?username=thinkright20&style=for-the-badge&color=brightgreen"> </a>
+    </td>
+  </tr>
+</table>
+
+
 ![](https://github.com/magikboy/magikboy/blob/fbf1f26ec2e3d7f1b661b739483f5d771ca2e361/imagen_2023-08-10_115257666.png)
 
 - 🌱 Estoy estudiando en la utn
