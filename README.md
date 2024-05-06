@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-## Profile Views
+## Bienvenidos
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Programador+de+C%23%3B+.NET%3B+Full+Stack%3B+2+Años+de+Experiencia&font=Fira+Code&center=true&width=700&height=45&color=4b0082&vCenter=true&pause=1000&size=25" /></a>
+</p>
 
+## Vistas del Perfil
 
 <table>
   <tr>
