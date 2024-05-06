@@ -1,6 +1,5 @@
-### Hi there 👋
-
 ## Bienvenidos
+![](https://github.com/magikboy/magikboy/blob/fbf1f26ec2e3d7f1b661b739483f5d771ca2e361/imagen_2023-08-10_115257666.png)
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Programador+de+C%23%3B+.NET%3B+Full+Stack%3B+2+Años+de+Experiencia&font=Fira+Code&center=true&width=700&height=45&color=4b0082&vCenter=true&pause=1000&size=25" /></a>
 </p>
@@ -26,8 +25,6 @@
 ## Lenguajes y Herramientas
 
 <p align="left"> <a href="https://github.com/magikboy"><img src="https://skillicons.dev/icons?i=vscode,replit,github,css,html,js,nodejs,c#"> </a> </p>
-
-![](https://github.com/magikboy/magikboy/blob/fbf1f26ec2e3d7f1b661b739483f5d771ca2e361/imagen_2023-08-10_115257666.png)
 
 - 🌱 Estoy estudiando en la utn
 - 🤔 estoy buscando ayuda para entender ruby
