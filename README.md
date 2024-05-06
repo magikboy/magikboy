@@ -16,6 +16,12 @@
   </tr>
 </table>
 
+- [Portfolio](https://magikboy.github.io)
+
+
+## Lenguajes y Herramientas
+
+<p align="left"> <a href="https://github.com/magikboy"><img src="https://skillicons.dev/icons?i=vscode,replit,github,css,html,js,nodejs,c#"> </a> </p>
 
 ![](https://github.com/magikboy/magikboy/blob/fbf1f26ec2e3d7f1b661b739483f5d771ca2e361/imagen_2023-08-10_115257666.png)
 
@@ -57,12 +63,4 @@ In summary, I present myself to you as a passionate entrepreneur in the world of
 
 🎆🎆 Thank you for your time and attention! 🎆🎆
 
-
-
-- [Portfolio](https://magikboy.github.io)
-
-
-## Lenguajes y Herramientas
-
-<p align="left"> <a href="https://github.com/magikboy"><img src="https://skillicons.dev/icons?i=vscode,replit,github,css,html,js,nodejs,c#"> </a> </p>
 
