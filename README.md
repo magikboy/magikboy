@@ -45,7 +45,7 @@ In summary, I present myself to you as a passionate entrepreneur in the world of
 - [Portfolio](https://magikboy.github.io)
 
 
-## Languages and Tools
+## Lenguajes y Herramientas
 
 <p align="left"> <a href="https://github.com/magikboy"><img src="https://skillicons.dev/icons?i=vscode,replit,github,css,html,js,nodejs,c#"> </a> </p>
 
