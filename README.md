@@ -11,7 +11,7 @@
   <tr>
     <!-- Vistas del perfil -->
     <td>
-       <a href="https://github.com/magikboy"> <img src="https://komarev.com/ghpvc/?username=thinkright20&style=for-the-badge&color=brightgreen"> </a>
+       <a href="https://github.com/magikboy"> <img src="https://komarev.com/ghpvc/?username=magikboy&style=for-the-badge&color=brightgreen"> </a>
     </td>
   </tr>
 </table>
