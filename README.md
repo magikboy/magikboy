@@ -19,8 +19,8 @@
   </tr>
 </table>
 
-- [Portfolio](https://magikboy.github.io)
-
+### 🌟 ¡Descubre mi trabajo!
+Echa un vistazo a mi **[Portfolio aquí](https://magikboy.github.io)** donde muestro mis proyectos y habilidades.
 
 ## Lenguajes y Herramientas
 
