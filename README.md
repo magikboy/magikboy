@@ -24,7 +24,7 @@ Echa un vistazo a mi **[Portfolio aquí](https://magikboy.github.io)** donde mue
 
 ## Lenguajes y Herramientas
 
-<p align="left"> <a href="https://github.com/magikboy"><img src="https://skillicons.dev/icons?i=vscode,replit,github,css,html,js,nodejs,c#"> </a> </p>
+<p align="left"> <a href="https://github.com/magikboy"><img src="https://skillicons.dev/icons?i=vscode,replit,github,css,html,js,python,c#"> </a> </p>
 
 - 🌱 Actualmente estoy perfeccionando mis habilidades en la Universidad Tecnológica Nacional (UTN).
 - 🤔 Busco colaboraciones para profundizar en Ruby y tecnologías emergentes.
