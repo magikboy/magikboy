@@ -1,7 +1,7 @@
 ## Bienvenidos
 ![](https://github.com/magikboy/magikboy/blob/0e67976e1e3c64435ee6e734a972914f0f062af6/titulo%20github%20(1213%20x%20538%20px).gif)
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Programador+de+C%23%3B+.NET%3B+Full+Stack%3B+2+Años+de+Experiencia&font=Fira+Code&center=true&width=700&height=45&color=4b0082&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Programador+de+C%23%3B+.NET%3B+Full+Stack%3B+2+Años+de+Experiencia&font=Fira+Code&center=true&width=700&height=45&color=fff&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
 ## Vistas del Perfil
@@ -47,7 +47,6 @@ Estoy abierto a colaboraciones y proyectos que desafíen los límites de la tecn
 
 ### 🎆🎆 ¡Gracias por visitar mi perfil y explorar mi trabajo! 🎆🎆
 
-- [Portafolio](https://magikboy.github.io)
 
 ### ENGLISH 
 
