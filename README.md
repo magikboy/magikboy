@@ -19,58 +19,79 @@
   </tr>
 </table>
 
-### 🌟 ¡Descubre mi trabajo!
-Echa un vistazo a mi **[Portfolio aquí](https://magikboy.github.io)** donde muestro mis proyectos y habilidades.
+### 🌟 ¡Descubre mi trabajo!  
+Echa un vistazo a mi **[Portfolio aquí](https://magikboy.github.io)** donde muestro mis proyectos y habilidades.  
 
-## Lenguajes y Herramientas
+## Lenguajes y Herramientas  
+<p align="left"> <a href="https://github.com/magikboy"><img src="https://skillicons.dev/icons?i=vscode,replit,github,css,html,js,python,c#,flutter,dart,mysql"> </a> </p>  
 
-<p align="left"> <a href="https://github.com/magikboy"><img src="https://skillicons.dev/icons?i=vscode,replit,github,css,html,js,python,c#"> </a> </p>
+- 🌱 Actualmente estoy perfeccionando mis habilidades en la Universidad Tecnológica Nacional (UTN).  
+- 🤔 Busco colaboraciones para profundizar en Ruby y tecnologías emergentes.  
+- 💬 Puedes preguntarme sobre cualquier aspecto de diseño y desarrollo de software.  
+- 📧 Conéctate conmigo en LinkedIn o WhatsApp a través de mi portafolio.  
 
-- 🌱 Actualmente estoy perfeccionando mis habilidades en la Universidad Tecnológica Nacional (UTN).
-- 🤔 Busco colaboraciones para profundizar en Ruby y tecnologías emergentes.
-- 💬 Puedes preguntarme sobre cualquier aspecto de diseño y desarrollo de software.
-- 📫 Conéctate conmigo en LinkedIn o WhatsApp a través de mi portafolio.
+## Sobre Mí  
+🌟 ¡Hola! Mi nombre es **Massimo Bosco**. Soy un apasionado programador especializado en C#, .NET, Full Stack y desarrollo de aplicaciones móviles, con sólida experiencia en Flutter, Android Studio y manejo de bases de datos.  
 
-## Sobre Mí
+Desde mi infancia, he sido un entusiasta de la tecnología. Esta pasión me llevó a dedicarme al campo del desarrollo de software, donde he trabajado en diversos proyectos que no solo han desafiado mi capacidad técnica, sino que también han enriquecido mi visión creativa.  
 
-🎆 ¡Hola! Mi nombre es **Massimo Bosco**. Soy un apasionado programador de C#, .NET y Full Stack con sólida experiencia en manejo de bases de datos. Me emociona poder compartir y crecer en la comunidad de programación, llevando mis habilidades y proyectos a un nuevo nivel.
+## **Desarrollador de Aplicaciones Móviles**  
+He tenido el privilegio de diseñar y desarrollar aplicaciones móviles innovadoras que generan valor en diversas áreas. Entre mis proyectos destacados se encuentran:  
 
-Desde mi infancia, he sido un entusiasta de la tecnología. Esta pasión me llevó a dedicarme al campo del desarrollo de software, donde he tenido la oportunidad de trabajar en diversos proyectos que no solo han desafiado mi capacidad técnica, sino que también han enriquecido mi visión creativa.
+- **Plataformas de pago con QR**: Creación de soluciones eficientes y seguras para realizar pagos digitales mediante códigos QR.  
+- **Pasarelas de pago**: Implementación de sistemas robustos para facilitar transacciones en línea con una experiencia de usuario impecable.  
+- **Aplicaciones interactivas y educativas**: Desarrollo de apps para niños pequeños, enfocadas en el aprendizaje interactivo y el entretenimiento educativo.  
 
-Mi enfoque en el desarrollo Full Stack y las tecnologías de bases de datos me ha permitido construir aplicaciones robustas y eficientes. Tengo un interés particular en explorar cómo las tecnologías de vanguardia pueden ser aplicadas para mejorar y transformar los negocios y la vida diaria de las personas.
+Además, cuento con experiencia en el despliegue de aplicaciones móviles en plataformas como Google Play Store, trabajando con dependencias y tecnologías específicas como Flutter, Android Studio y el SDK de Android para garantizar el éxito del proyecto.  
 
-## Mis Metas
+Mi enfoque está siempre orientado a entregar productos de alta calidad que resuelvan problemas y superen las expectativas de los usuarios.  
 
-Como emprendedor y desarrollador, mi meta es innovar y aportar soluciones que no solo sean efectivas, sino también accesibles y amigables para el usuario. Estoy comprometido a seguir aprendiendo y adaptándome a las nuevas tecnologías para mantenerme al frente de la curva en el desarrollo de software.
+## Aptitudes  
+- **Lenguajes y Tecnologías**: Flutter, Dart, C#, .NET, JavaScript, Python, HTML, CSS, MySQL, Microsoft SQL Server.  
+- **Desarrollo de Software**: Diseño de software, programación informática, desarrollo front-end y back-end.  
+- **Desarrollo Móvil**: Flutter, Android Studio, SDK de Android, testing en Android, desarrollo de aplicaciones móviles, integración de pasarelas de pago y soluciones de pago móvil.  
+- **Habilidades Blandas**: Comunicación efectiva, organización, trabajo en equipo y atención a los detalles.  
 
-Estoy abierto a colaboraciones y proyectos que desafíen los límites de la tecnología actual. Si tienes una idea o proyecto en mente, ¡no dudes en conectarte!
+---  
+🙌 **¡Gracias por visitar mi perfil y explorar mi trabajo!**  
 
-### 🎆🎆 ¡Gracias por visitar mi perfil y explorar mi trabajo! 🎆🎆
+---
 
+### 🌟 Discover My Work!  
+Check out my **[Portfolio here](https://magikboy.github.io)** to see my projects and skills.  
 
-### ENGLISH 
+## Languages and Tools  
+<p align="left"> <a href="https://github.com/magikboy"><img src="https://skillicons.dev/icons?i=vscode,replit,github,css,html,js,python,c#,flutter,dart,mysql"> </a> </p>  
 
-- 🌱 I am currently honing my skills at the Universidad Tecnológica Nacional (UTN).
-- 🤔 I am looking for collaborations to delve deeper into Ruby and emerging technologies.
-- 💬 You can ask me about any aspect of software design and development.
-- 📫 Connect with me on LinkedIn or WhatsApp through my portfolio.
+- 🌱 I am currently honing my skills at the Universidad Tecnológica Nacional (UTN).  
+- 🤔 I am looking for collaborations to delve deeper into Ruby and emerging technologies.  
+- 💬 Feel free to ask me about any aspect of software design and development.  
+- 📧 Connect with me on LinkedIn or WhatsApp through my portfolio.  
 
-## About Me
+## About Me  
+🌟 Hello! My name is **Massimo Bosco**. I am a passionate programmer specializing in C#, .NET, Full Stack development, and mobile application development, with solid experience in Flutter, Android Studio, and database management.  
 
-🎆 Hello! My name is **Massimo Bosco**. I am a passionate C#, .NET, and Full Stack developer with a solid background in database management. I am thrilled to share and grow in the programming community, taking my skills and projects to a new level.
+Since childhood, I have been a technology enthusiast. This passion led me to pursue a career in software development, where I have worked on various projects that have not only challenged my technical skills but also enriched my creative vision.  
 
-From my childhood, I have been a technology enthusiast. This passion led me to dedicate myself to the field of software development, where I have had the opportunity to work on various projects that have not only challenged my technical capacity but also enriched my creative vision.
+## **Mobile Application Developer**  
+I have had the privilege of designing and developing innovative mobile applications that deliver value across various domains. Some of my most notable projects include:  
 
-My focus on Full Stack development and database technologies has allowed me to build robust and efficient applications. I have a particular interest in exploring how cutting-edge technologies can be applied to improve and transform businesses and people's everyday lives.
+- **QR Code Payment Platforms**: Creating efficient and secure solutions for digital payments using QR codes.  
+- **Payment Gateways**: Implementing robust systems to facilitate seamless online transactions with an exceptional user experience.  
+- **Interactive and Educational Applications**: Developing apps for young children, focused on interactive learning and educational entertainment.  
 
-### 🎆🎆 Thank you for visiting my profile and exploring my work! 🎆🎆
+Additionally, I have experience deploying mobile applications to platforms such as Google Play Store, working with dependencies and specific technologies like Flutter, Android Studio, and the Android SDK to ensure project success.  
 
-## My Goals
+My approach is always focused on delivering high-quality products that solve problems and exceed user expectations.  
 
-As an entrepreneur and developer, my goal is to innovate and provide solutions that are not only effective but also accessible and user-friendly. I am committed to continuing to learn and adapt to new technologies to stay ahead of the curve in software development.
+## Skills  
+- **Languages and Technologies**: Flutter, Dart, C#, .NET, JavaScript, Python, HTML, CSS, MySQL, Microsoft SQL Server.  
+- **Software Development**: Software design, computer programming, front-end, and back-end development.  
+- **Mobile Development**: Flutter, Android Studio, Android SDK, Android testing, mobile application development, payment gateway integration, and mobile payment solutions.  
+- **Soft Skills**: Effective communication, organization, teamwork, and attention to detail.  
 
-I am open to collaborations and projects that challenge the limits of current technology. If you have an idea or project in mind, do not hesitate to connect!
+---  
+🙌 **Thank you for visiting my profile and exploring my work!**
 
-### 🎆🎆 Thank you for your time and attention! 🎆🎆
 
 
